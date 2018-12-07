@@ -1,2 +1,2 @@
 # Spectralpys
-My python routines &lt;&lt;in progress>> for spectrocopy
+Learning to use github with my python routines &lt;&lt;in progress>> for spectrocopy
